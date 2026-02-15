@@ -1,0 +1,5 @@
+python-flask-wtf source: file-without-copyright-information
+python-flask-wtf source: no-debian-changes
+python-flask-wtf source: source-contains-prebuilt-windows-binary
+python-flask-wtf source: source-is-missing
+python-flask-wtf source: source-package-encodes-python-version
